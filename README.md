@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Luanne 👋
 
-<!--
-**Icecream102/Icecream102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master's student researching AI security with interests in federated learning, LLMs safety, and MLLMs.
 
-Here are some ideas to get you started:
+## Research Interests
+- Federated Learning
+- Backdoor Attack & Defense
+- Large Language Model Safety
+- Multimodal Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Backdoor attack and defense in federated learning
+- Safety and security of LLMs
+- Efficient fine-tuning of MLLMs
+
+## Links
+- https://scholar.google.com/citations?hl=en&user=DEXib5EAAAAJ
+- luanne10@163.com
