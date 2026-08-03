@@ -1,4 +1,4 @@
-<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/6fcecc4b-d261-4d04-a853-82bb18330b90" /># Hi, I'm Luanne 👋
+# Hi, I'm Luanne 👋
 
 ## Research Interests
 - Federated Learning
