@@ -1,23 +1,21 @@
 # Hi, I'm Luanne 👋
 
-I am interested in **capable, efficient, and trustworthy multimodal foundation models**, with a particular focus on vision-language learning, multimodal alignment, and model security.
+I am interested in **efficient and trustworthy multimodal models**, with a particular focus on VLM, multimodal alignment, and model security.
 
 ## 🔬 Research Interests
 
-* **Multimodal Large Language Models**
-* **Vision-Language Models and Vision-Language-Action Models**
+* **Vision-Language Models (VLM) and Vision-Language-Action Models (VLA)**
 * **Multimodal Representation Learning and Alignment**
-* **Efficient Training and Adaptation of Foundation Models**
 * **Trustworthy AI and Model Security**
 * **Federated Learning**
 
 ## 🚀 Current Research
 
 * 🤖 **Multimodal Understanding and Reasoning**
-  Exploring vision-language representation learning, cross-modal alignment, instruction tuning, and multimodal reasoning for large-scale vision-language models.
+  Exploring vision-language representation learning, cross-modal alignment, instruction tuning, and multimodal reasoning for VLM.
 
 * ⚡ **Efficient Multimodal Foundation Models**
-  Investigating parameter-efficient adaptation, data-efficient learning, and training optimization for VLMs and VLAs.
+  Investigating parameter-efficient adaptation, data-efficient learning, and training optimization for VLM and VLA.
 
 * 🛡️ **Trustworthy Multimodal Learning**
   Studying the robustness, safety, and security of multimodal foundation models, including backdoor attacks and defense mechanisms.
